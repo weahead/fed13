@@ -1,3 +1,1 @@
-Hello World
-Hello Universe
-Hello myOwn gitproject.
+Hello Git, you're so funny! :) :) :)
